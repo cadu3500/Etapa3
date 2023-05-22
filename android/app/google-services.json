@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255255031592",
+    "project_id": "etapa3-f6be2",
+    "storage_bucket": "etapa3-f6be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255255031592:android:6330303cbdf0428aaeea1d",
+        "android_client_info": {
+          "package_name": "com.etapa3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255255031592-v0emsstln7t92fgsia64qg5egfu367nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc1PBw3BjfZ8nyH1mWnWxTL5dy85gMfYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255255031592-v0emsstln7t92fgsia64qg5egfu367nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
